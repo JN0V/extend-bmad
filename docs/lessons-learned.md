@@ -1,3 +1,4 @@
+<!-- self-dogfood smoke 2026-05-17T14:52:40.069Z -->
 # Lessons learned — project-scoped, autolearning Layer F (dynamic)
 
 > Per MAKE_MY_DREAMS.md §6.5 + §6.5b: every failure encountered during MMD development must produce a deterministic test+fix AND a documented lesson here. Once a lesson reaches N=5 validated re-uses (the matcher in the composer sees its keywords in the prompt and the prompt-receiver respects the rule), it is **promoted** into the relevant constitution module (typically `ai-coding.md`, `commit-git.md`, `testing.md`, or `observability.md`) and removed from this file.
